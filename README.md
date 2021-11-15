@@ -15,7 +15,7 @@ const roboturner = {
    },
    learning: "Focused on learning React",
    work: "Projects and Freelancing to build a portfolio.",
-   challenge: "Need help finding a front-end developer role in a great team!"
+   goal: "Need help finding a front-end developer role in a great team!"
 }
 ```
 
