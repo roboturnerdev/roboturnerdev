@@ -7,7 +7,7 @@
 const roboturner = {
    pronouns: "he" | "him",
    code: [Javascript, HTML5, CSS3],
-   tools: [MongoDB, Express, React, Node, Figma, Storybook],
+   tools: [MongoDB, Express, React, Node, Docker, Figma, Storybook],
    socialMedia: {
                         email: "roboturnerdev@gmail.com",
                         twitter: "@robo_turner",
