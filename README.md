@@ -22,3 +22,10 @@ const roboturner = {
 <img src="https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="45"> <em><b>I love to learn,</b> so if you want to say <b>'Hi', I'd love to speak with you!</b></em>
 
 ---
+
+### About Me:
+I learned to program while studying Game Programming at Full Sail University in 2009-2011. After that, my career was mainly focused on Finance as a Personal Banker and also as a Title IV Student Aid Administrator at a vocational college.
+
+My passion for tech has only grown in the last 2-3 years. I have taken several online courses, including two Web Developer Bootcamps on Udemy, and more. I have made small side projects with friends, and dreamed about more. Now, I've made the decision to make the career move and become the develoepr I always dreamed of becoming.
+   
+Any and all questions are much appreciated. I value feedback and would also love to chat about any career opportunities. If you have space on your team for a charismatic, excited, leader-from-within professional who is eager to learn and grow -- you've got my contact.
