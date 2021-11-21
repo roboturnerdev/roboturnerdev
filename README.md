@@ -15,7 +15,7 @@ const roboturner = {
    },
    learning: "Focused on learning React",
    work: "Projects and Freelancing to build a portfolio.",
-   goal: "Need help finding a (junior) fullstack developer role in a great team!"
+   goal: "Need help finding a Fullstack Developer role in a great team!"
 }
 ```
 
