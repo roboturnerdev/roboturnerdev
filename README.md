@@ -13,7 +13,7 @@ const roboturner = {
                         twitter: "@robo_turner",
                         linkedin: "https://www.linkedin.com/in/rwturnerjr/"
    },
-   learning: "Focused on learning React",
+   learning: "React, PowerShell, AAD",
    work: "Projects and Freelancing to build a portfolio.",
    goal: "Need help finding a Fullstack Developer role in a great team!"
 }
