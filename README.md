@@ -24,8 +24,11 @@ const roboturner = {
 ---
 
 ### About Me:
-I learned to program while studying Game Programming at Full Sail University in 2009-2011. After that, my career was mainly focused on Finance as a Personal Banker and also as a Title IV Student Aid Administrator at a vocational college.
+I learned to program while studying Game Programming at Full Sail University in 2009-2011. After that, my career was mainly focused on Finance as a Personal Banker and also as a Title IV FSA Administrator at a beauty academy.
 
-My passion for tech has grown since then, and in the last two years I have aimed to make my goals a reality. I would consider myself mostly self-taught, having taken several online courses including two Web Developer Bootcamps on Udemy, SQL, DSA, and more. I have made small side projects with friends, and dreamed about more. Now, I've made the decision to make the career move and become the developer I always dreamed of becoming.
-   
+My passion for tech has grown since then, and in the last two years I have aimed to make my goals a reality. I have taken several online courses including two Web Developer Bootcamps on Udemy, SQL, DSA, and gotten the AZ-900 Certification for DevOps. I have made small side projects with friends, and dreamed about more. Now, I've made the decision to make the career move and become the developer I always dreamed of.
+
 Any and all questions are much appreciated. I value feedback and would also love to chat about any career opportunities. If you have space on your team for a charismatic, excited, leader-from-within professional who is eager to learn and grow -- you've got my contact.
+
+Personal GitHub: https://github.com/roboturnerdev
+Personal Twitter: https://twitter.com/robo_turner
