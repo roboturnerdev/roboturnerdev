@@ -6,16 +6,16 @@
 ```javascript
 const roboturner = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML5, CSS3],
-   tools: [MongoDB, Express, React, Node, Docker],
+   code: [HTML5, CSS3, JavaScript, PowerShell],
+   tools: [MongoDB, Express, React, Node, Azure, Docker],
    socialMedia: {
                         email: "roboturnerdev@gmail.com",
                         twitter: "@robo_turner",
                         linkedin: "https://www.linkedin.com/in/rwturnerjr/"
    },
-   learning: "React, PowerShell, AAD",
+   learning: "DevOps and Azure Cloud Services",
    work: "Projects and Freelancing to build a portfolio.",
-   goal: "Need help finding a Fullstack Developer role in a great team!"
+   goal: "Need help finding a Fullstack or DevOps role in a great team!"
 }
 ```
 
