@@ -6,16 +6,16 @@
 const roboturner = {
    name: "Robert",
    pronouns: "he" | "him",
-   code: [JavaScript, Python, .NET Core, Java, PowerShell],
+   code: [JavaScript, Python, .NET, Java, PowerShell],
    tools: [Azure, Docker, Terraform, VSCode],
    socialMedia: {
                         email: "roboturnerdev@gmail.com",
                         twitter: "@robo_turner",
                         linkedin: "https://www.linkedin.com/in/rwturnerjr/"
    },
-   learning: "DevOps and Azure Cloud Services",
+   learning: "DevOps | C#, Azure, PowerShell",
    work: "Site Reliability Engineer ☁",
-   goal: "Learn and grow every day!"
+   goal: "Certify and Promote in Cloud Engineering!"
 }
 ```
 
