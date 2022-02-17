@@ -13,9 +13,10 @@ const roboturner = {
                         twitter: "@robo_turner",
                         linkedin: "https://www.linkedin.com/in/rwturnerjr/"
    },
-   learning: "DevOps | C#, Azure, PowerShell",
+   learning: "DevOps | C#, Azure, PowerShell | CompTIA Security+",
+   certificates: "AZ-900, MS-900",
    work: "Site Reliability Engineer ☁",
-   goal: "Certify and Promote in Cloud Engineering!"
+   goals: "AZ-104, AZ-204, AZ-400, Certified Kubernetes Adminitrator (CKA)"
 }
 ```
 
