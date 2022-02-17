@@ -6,8 +6,8 @@
 const roboturner = {
    name: "Robert",
    pronouns: "he" | "him",
-   code: [JavaScript, Python, .NET, Java, PowerShell],
-   tools: [Azure, Docker, Terraform, VSCode],
+   code: [JavaScript, .NET Core, PowerShell],
+   tools: [Azure, Docker, Terraform, VSCode, Postman],
    socialMedia: {
                         email: "roboturnerdev@gmail.com",
                         twitter: "@robo_turner",
