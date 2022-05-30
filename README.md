@@ -7,19 +7,15 @@ const roboturner = {
    name: "Robert",
    pronouns: "he" | "him",
    code: [JavaScript, .NET Core, PowerShell],
-   tools: [Azure, Docker, Terraform, VSCode, Postman],
+   tools: [Azure, VS Code, Terraform, Docker],
    socialMedia: {
                         email: "roboturnerdev@gmail.com",
                         twitter: "@robo_turner",
                         linkedin: "https://www.linkedin.com/in/rwturnerjr/"
    },
-   learning: "DevOps | C#, Azure, PowerShell | CompTIA Security+",
-   certificates: "AZ-900, MS-900",
+   learning: "DevOps",
+   certificates: "AZ-900, MS-900, SC-900, CompTIA Security+",
    work: "Site Reliability Engineer ☁",
-   goals: "AZ-104, AZ-204, AZ-400, Certified Kubernetes Adminitrator (CKA)"
+   goals: "AZ-104, CKA, Terraform"
 }
 ```
-
-<img src="https://c.tenor.com/6ph1w40DrykAAAAi/handshake-joypixels.gif" width="45"> <em><b>I love to learn and chat,</b> so if you want to say <b>'Hi', I'd love to speak with you!</b></em>
-
-Personal Twitter: https://twitter.com/robo_turner
