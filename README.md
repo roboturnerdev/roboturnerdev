@@ -7,11 +7,11 @@ const roboturner = {
    name: "Robert",
    pronouns: "he" | "him",
    code: [JavaScript, .NET Core, PowerShell, Bash],
-   tools: [Azure, VS Code, Terraform, Kubernetes],
+   tools: [Azure, Kubernetes, Helm, VSCode],
    socialMedia: {
-                        email: "roboturnerdev@gmail.com",
-                        twitter: "@robo_turner",
-                        linkedin: "https://www.linkedin.com/in/rwturnerjr/"
+         email: "roboturnerdev@gmail.com",
+         twitter: "@robo_turner",
+         linkedin: "https://www.linkedin.com/in/rwturnerjr/"
    },
    learning: "DevOps",
    certificates: "AZ-900, MS-900, SC-900, CompTIA Security+",
