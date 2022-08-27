@@ -15,7 +15,7 @@ const roboturner = {
    },
    learning: "devops",
    certificates: "CompTIA Security+, az 900, ms 900, sc 900",
-   work: "SRE @ CloudFit",
+   work: "SRE @ ☁💪",
    goals: "CKA, Az-104"
 }
 ```
