@@ -14,7 +14,7 @@ const roboturner = {
          linkedin: "https://www.linkedin.com/in/rwturnerjr/"
    },
    learning: "devops",
-   certificates: "CompTIA Security+, az 900, ms 900, sc 900",
+   certificates: "sec+, az 900, ms 900, sc 900",
    work: "SRE @ ☁💪",
    goals: "CKA, Az-104"
 }
