@@ -15,7 +15,7 @@ const roboturner = {
    },
    learning: "devops",
    certificates: "sec+, az 900, ms 900, sc 900",
-   work: "SRE @ ☁💪",
-   goals: "CKA, Az-104"
+   work: "sre @ ☁💪",
+   goals: "cka, az 104"
 }
 ```
