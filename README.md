@@ -1,21 +1,19 @@
 <h3>"Hello there."</h3><em>- Obi-Wan Kenobi</em>
-<img align='right' src="https://young.scot/media/1513/working_information_digtialcareermythbustersgif_001.jpg" width="230">
-
 ### desc:
 ```javascript
 const roboturner = {
    name: "robert",
    pronouns: "he" | "him",
-   code: [.NET, pwsh, bash],
-   tools: [k8s, helm, argocd],
+   code: [bash, pwsh, golang],
+   tools: [k8s, helm, argocd, zsh, tmux],
    socialMedia: {
          email: "roboturnerdev@gmail.com",
          twitter: "@robo_turner",
          linkedin: "https://www.linkedin.com/in/rwturnerjr/"
    },
-   learning: "devops",
-   certificates: "sec+, az 900, ms 900, sc 900",
+   learning: "devsecops",
+   certificates: "sec+, az900, ms900, sc900",
    work: "sre @ ☁💪",
-   goals: "cka, az 104"
+   goals: "cka, az104"
 }
 ```
