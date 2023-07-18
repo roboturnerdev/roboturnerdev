@@ -1,4 +1,7 @@
-<h3>"Hello there."</h3><em>- Obi-Wan Kenobi</em>
+<h3>"Hello there."</h3>- Obi-Wan Kenobi
+
+<br>
+<br>
 
 ```javascript
 const roboturner = {
