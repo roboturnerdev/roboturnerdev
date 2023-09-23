@@ -3,19 +3,15 @@
 <br>
 <br>
 
-```javascript
-const roboturner = {
-   name: "robert",
-   pronouns: "he" | "him",
-   code: [bash, python, dotnet],
-   tools: [k8s, helm, argocd, zsh, tmux],
-   socialMedia: {
-         email: "roboturnerdev@gmail.com",
-         linkedin: "https://www.linkedin.com/in/rwturnerjr/"
-   },
-   learning: "devsecops",
-   certificates: "sec+, az900, ms900, sc900",
-   work: "sre @ ☁💪",
-   goals: "cka"
+```csharp
+List<string> code = new List<string> { "bash", "javascript", dotnet" };
+List<string> tools = new List<string> { "k8s", "helm", "argocd", "zsh", "tmux" };
+List<string> certs = new List<string> { "sec+", "az-900", "ms-900", "sc-900" };
+
+Engineer rob = new Engineer {
+  "Rob Turner",
+  32,
+  code, tools, certs,
+  "sre @ ☁💪"
 }
 ```
