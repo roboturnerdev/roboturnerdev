@@ -4,9 +4,9 @@
 <br>
 
 ```csharp
-List<string> code = new List<string> { "bash", "javascript", dotnet" };
-List<string> tools = new List<string> { "k8s", "helm", "argocd", "zsh", "tmux" };
+List<string> code = new List<string> { "bash", "powershell", "ts", "dotnet" };
 List<string> certs = new List<string> { "sec+", "az-900", "ms-900", "sc-900" };
+List<string> tools = new List<string> { "k8s", "helm", "argocd", "zsh", "tmux" };
 
 Engineer rob = new Engineer {
   "Rob Turner",
