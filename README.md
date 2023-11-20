@@ -4,14 +4,14 @@
 <br>
 
 ```csharp
-List<string> code = new List<string> { "bash", "powershell", "ts", "dotnet" };
+List<string> code = new List<string> { "bash", "python", "dotnet" };
 List<string> certs = new List<string> { "sec+", "az-900", "ms-900", "sc-900" };
-List<string> tools = new List<string> { "k8s", "helm", "argocd", "zsh", "tmux" };
+List<string> tools = new List<string> { "zsh", "helm", "argocd", "neovim", "tmux" };
 
 Engineer rob = new Engineer {
   "Rob Turner",
   32,
-  code, tools, certs,
+  code, certs, tools,
   "sre @ ☁💪"
 }
 ```
