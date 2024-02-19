@@ -3,15 +3,25 @@
 <br>
 <br>
 
-```csharp
-List<string> code = new List<string> { "bash", "python", "dotnet" };
-List<string> certs = new List<string> { "sec+", "az-900", "ms-900", "sc-900" };
-List<string> tools = new List<string> { "zsh", "helm", "argocd", "neovim", "tmux" };
+```bash
+#!/bin/bash
 
-Engineer rob = new Engineer {
-  "Rob Turner",
-  32,
-  code, certs, tools,
-  "sre @ ☁💪"
+name="Rob Turner"
+age=32
+job="sre @ ☁💪"
+
+code=("bash" "python" "dotnet")
+certs=("sec+" "az-900" "ms-900" "sc-900")
+tools=("neovim" "kubernetes" "helm" "argocd" "gitlab")
+
+print_profile() {
+    echo "Name: $name"
+    echo "Age: $age"
+    echo "Code Skills: ${code[*]}"
+    echo "Certifications: ${certs[*]}"
+    echo "Tools: ${tools[*]}"
+    echo "Job: $job"
 }
+
+print_profile
 ```
