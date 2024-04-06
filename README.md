@@ -1,27 +1,25 @@
-<h3>"Hello there."</h3>- Obi-Wan Kenobi
-
-<br>
-<br>
-
-```bash
 #!/bin/bash
 
 name="Rob Turner"
 age=32
-job="sre @ ☁💪"
+job="SRE @ ☁ 💪"
 
 code=("bash" "python" "dotnet")
-certs=("sec+" "az-900" "ms-900" "sc-900")
-tools=("neovim" "kubernetes" "helm" "argocd" "gitlab")
+certs=("cka" "sec+" "az-900" "ms-900" "sc-900")
+tools=("neovim" "kubectl" "helm" "argocd" "gitlab")
 
 print_profile() {
+    echo "********************"
     echo "Name: $name"
     echo "Age: $age"
-    echo "Code Skills: ${code[*]}"
-    echo "Certifications: ${certs[*]}"
-    echo "Tools: ${tools[*]}"
     echo "Job: $job"
+    echo "Code Skills"
+    for codeskill in "${code[@]}"; do echo -e "\t$codeskill"; done
+    echo "Certifications"
+    for cert in "${certs[@]}"; do echo -e "\t$cert"; done
+    echo "Tools"
+    for tool in "${tools[@]}"; do echo -e "\t$tool"; done
+    echo "********************"
 }
 
 print_profile
-```
