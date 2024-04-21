@@ -4,7 +4,7 @@ name="Rob Turner"
 age=32
 job="SRE @ ☁ 💪"
 
-code=("bash" "python" "dotnet")
+code=("bash" "python" "dotnet" "typescript")
 certs=("cka" "sec+" "az-900" "ms-900" "sc-900")
 tools=("neovim" "kubectl" "helm" "argocd" "gitlab")
 
