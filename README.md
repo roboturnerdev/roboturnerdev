@@ -1,12 +1,12 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 name="Rob Turner"
-age=33
-job="SRE @ ☁ 💪"
+age=34
+job="Computer Scientist at CloudFit Software"
 
-code=("bash" "python" "golang" "dotnet" "typescript")
+code=("bash" "golang" "dotnet" "typescript")
 certs=("cka" "sec+" "az-900" "ms-900" "sc-900")
-tools=("neovim" "kubectl" "helm" "argocd" "gitlab")
+tools=("kubernetes" "helm" "argocd" "gitlab")
 
 print_profile() {
     echo "********************"
